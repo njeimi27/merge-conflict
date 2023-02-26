@@ -1,1 +1,1 @@
-var truth = "hello bitch AA";
+var truth = "hello cats";
